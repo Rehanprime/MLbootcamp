@@ -18,6 +18,7 @@ For each test case,it will predict the probability of it belonging to each of th
 maximum probability.
 
 Also, as suggested by my mentors,I used a 3d matrix for representing each class rather than making different matrix for each class.
+
 Accuracy of the model:87.2%
 
 ## 3) KNN
