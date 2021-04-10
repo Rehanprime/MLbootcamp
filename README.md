@@ -12,3 +12,16 @@ Accuracy:23.99%.
 I plotted a graph of cost vs number of iterations to visualise the reducing loss.
 
 ## 2) Logistic regression
+The main function is **Logistic_regression** where we input the training x,training label,learning rate and number of iterations.
+It returns the optimised weight matrix using which we can predict output using test data.
+For each test case,it will predict the probability of it belonging to each of the 10 classes.The final predicted output will be the one having 
+maximum probability.
+
+Accuracy of the model:87.2%
+
+## 3) KNN
+There are two functions:**euclid_distance**-to calculate euclid distance of a test dataset with every training dataset,returning distances.
+
+Second function:**prediction** ,which uses distances from the euclid_distance function and predict the output.
+
+Accuracy:94%
