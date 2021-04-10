@@ -17,6 +17,7 @@ It returns the optimised weight matrix using which we can predict output using t
 For each test case,it will predict the probability of it belonging to each of the 10 classes.The final predicted output will be the one having 
 maximum probability.
 
+Also, as suggested by my mentors,I used a 3d matrix for representing each class rather than making different matrix for each class.
 Accuracy of the model:87.2%
 
 ## 3) KNN
