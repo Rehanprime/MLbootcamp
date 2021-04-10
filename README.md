@@ -25,3 +25,9 @@ There are two functions:**euclid_distance**-to calculate euclid distance of a te
 Second function:**prediction** ,which uses distances from the euclid_distance function and predict the output.
 
 Accuracy:94%
+
+## 4) Neural network
+I implemented a three layer neural network containing one input layer,one hidden layer and one output layer.
+Two randomly generated theta matrix and training data are provided as input.
+After training the model,the optimised theta's are returned.
+Using these weights and training data,we feed forward using our test data and calculate our prediction.
