@@ -1,4 +1,4 @@
-# MLbootcamp
+# ML Bootcamp
 ## Winter of Code 3.0 ML Bootcamp <br/>
 Hello,I am Mohd Rehan.Here I am working on my project for Winter of Code 3.0 ML Division. <br/>
 I have implemented following machine learning algorithms as part of my project:
